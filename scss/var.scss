@@ -1,0 +1,11 @@
+$black-blue: #415167;
+$black-brown: #C7A17A;
+$lite-brown: #F9F5E8;
+$dark-gray: #151D28;
+$lite-gray: #EDF0F5;
+
+@mixin center-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
